@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+locale: ja
+title: My Blog
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Welcome
+    Content: >
+      Hello, this is my blog.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/"
